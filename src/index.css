@@ -1,0 +1,160 @@
+body{
+  background-color: rgb(4, 20, 34);
+  color: aliceblue;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+  text-align: center;
+  margin: 5rem;
+}
+
+a{
+  text-decoration: none;
+  padding: 6px;
+  border-radius: 10px;
+  color: rgb(0, 0, 0);
+  font-size: 1.5rem;
+  margin: 1.5rem;
+  background-color: aliceblue;
+}
+a.active{
+  background-color: red;
+}
+main{
+  max-width: 1200px;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 2rem;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+h5{
+  color: #ccc;
+}
+
+ul{
+  list-style-type: none;
+  display: flex;
+}
+
+label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+input, textarea {
+  display: block;
+  width: 100%;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 1.2rem;
+}
+
+button {
+  background-color: #333;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 4px;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #555;
+}
+
+
+.cars {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.cars h5 {
+  font-size: 18px;
+  margin: 0;
+}
+
+.cars a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+  height: 200px;
+  border-radius: 8px;
+  background-color: #270101;
+  text-decoration: none;
+  color: #06011c;
+  transition: all 0.9s ease-in-out;
+}
+
+.cars a:hover {
+  transform: scale(1.05);
+  background-color: #09001a;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.3);
+  transform: rotate(360deg);
+}
+.cars-D {
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: 20px;
+  text-align: center;
+  font-family: arial;
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+}
+
+.card-body {
+  padding: 2px 16px;
+}
+
+.card h1 {
+  font-size: 24px;
+}
+
+.card p {
+  font-size: 18px;
+}
+a > .crumbitems{
+  background-color: none;
+  color: white;
+}
+.breadcrumbs{
+  max-width: 1200px;
+  margin: 20px auto;
+}
+.breadcrumbs > *{
+  display: inline-block;
+  margin-right: 10px;
+}
+.breadcrumbs .crumb::after{
+  content: '>';
+  margin-left: 10px;
+}
+.breadcrumbs .crumb:last-child:after{
+  display: none;
+}
+.breadcrumbs .crumb a {
+  color:#ddd
+}

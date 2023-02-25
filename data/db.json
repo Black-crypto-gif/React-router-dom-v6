@@ -1,0 +1,74 @@
+{
+  "cars": [
+      {
+          "id": 1,
+          "name": "Ford Mustang",
+          "year": 1964,
+          "description": "The Ford Mustang is an American car manufactured by Ford. It was originally based on the platform of the second generation North American Ford Falcon, a compact car.",
+          "photo_url": "https://example"
+      },
+      {
+          "id": 2,
+          "name": "Chevrolet Camaro",
+          "year": 1966,
+          "description": "The Chevrolet Camaro is a mid-size American automobile manufactured by Chevrolet, classified as a pony car and some versions also as a muscle car.",
+          "photo_url": "https://example.com"
+      },
+      {
+          "id": 3,
+          "name": "Dodge Challenger",
+          "year": 1970,
+          "description": "The Dodge Challenger is the name of three different generations of automobiles produced by American automobile manufacturer Dodge.",
+          "photo_url": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+      },
+      {
+          "id": 4,
+          "name": "Porsche 911",
+          "year": 1963,
+          "description": "The Porsche 911 is a two-door, 2+2 high performance rear-engined sports car made since 1963 by Porsche AG of Stuttgart, Germany.",
+          "photo_url": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+      },
+      {
+          "id": 5,
+          "name": "Maserati GranTurismo",
+          "year": 2007,
+          "description": "The Maserati GranTurismo is a grand tourer produced by the Italian automobile manufacturer Maserati.",
+          "photo_url": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+      },
+      {
+          "id": 6,
+          "name": "Audi R8",
+          "year": 2006,
+          "description": "The Audi R8 is a mid-engine, 2-seater sports car, which uses Audi's trademark quattro permanent all-wheel drive system.",
+          "photo_url": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+      },
+      {
+          "id": 7,
+          "name": "BMW M3",
+          "year": 1985,
+          "description": "The BMW M3 is a high-performance version of the BMW 3 Series, developed by BMW's in-house motorsport division, BMW M GmbH.",
+          "photo_url": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+      },
+      {
+          "id": 8,
+          "name": "Mercedes-Benz SLS AMG",
+          "year": 2010,
+          "description": "The Mercedes-Benz SLS AMG is a front-engine, 2-seater luxury sports car developed by the Mercedes-AMG division of German automotive manufacturer Mercedes-Benz.",
+          "photo_url": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+      },
+      {
+          "id": 9,
+          "name": "Lamborghini Aventador",
+          "year": 2011,
+          "description": "The Lamborghini Aventador is a mid-engine sports car produced by the Italian automotive manufacturer Lamborghini.",
+          "photo_url": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+      },
+      {
+          "id": 10,
+          "name": "Ferrari 458 Italia",
+          "year": 2009,
+          "description": "The Ferrari",
+          "photo_url":"https://images.unsplash.com/photo-1503376780353-7e6692767b70?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+      }
+  ]
+}
